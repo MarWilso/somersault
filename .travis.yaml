@@ -1,0 +1,9 @@
+language: scala
+scala:
+- 2.13.1
+script:
+- sbt test
+notifications:
+  email:
+    on_success: never
+    on_failure: never

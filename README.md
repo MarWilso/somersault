@@ -31,9 +31,4 @@ heroku git:remote -a somersault-staging
 git remote -v
 ```
 
-- PR - see the logs of a "review app" set remote
-
-
-
-
 
