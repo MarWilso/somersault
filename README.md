@@ -21,6 +21,11 @@ heroku git:remote -a somersault
 git push heroku master
 ```
 
+- PR - see the logs of a "review app" set remote
+
+```$xslt
+heroku git:remote -a somersault-p-staging-nzhvpdgxm
+```
 
 
 
