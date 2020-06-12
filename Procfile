@@ -1,1 +1,1 @@
-web: target/universal/stage/bin.somersault -Dhttp.port=${PORT}
+web: target/universal/stage/bin/somersault -Dhttp.port=${PORT}
